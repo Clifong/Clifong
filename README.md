@@ -5,53 +5,49 @@
 <div align="center">
     ================================= 🛠️ My skills 🛠️ =================================
     <br>
-    <br>
-    Game dev:
-    <br>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,unity" />
-    </a>
-    <br>
-    <br>
-    Mobile:
-    <br>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,swift" />
-    </a>
-    <br>
-    <br>
-    Web:
-    <br>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
-    </a>
-    <br>
-    <br>
-    Database:
-    <br>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
-    </a>
-    <br>
-    <br>
-    Language:
-    <br>
-    <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java" />
-    </a>
-    <br>
-    <br>
-    Currently learning
+    <div>
+        Game dev:
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cs,unity" />
+        </a>
+    </div>
+    <div>
+        Mobile:
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter,swift" />
+        </a>
+    </div>
+    <div>
+        Web:
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
+        </a>
+    </div>
+    <div>
+        Database:
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+        </a>
+    </div>
+    <div>
+        Language:
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,java" />
+        </a>
+    </div>
+    <div>
+        Currently learning:
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
+        </a>
+    </div>
+</div>
+
+<div align="center">
+    ================================= 🌐 My social media 🌐 =================================
     <br>
     <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
-    </a>
+    
 </div>
 
 
