@@ -1,13 +1,13 @@
 ## Hello world👋
 
-I want to kms
-
 ![Metrics](/metrics.classic.svg)
 
 - 🛠️ My skills
 
 Game dev:
+<div>
 [![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=2)](https://skillicons.dev)
+</div>
 
 Mobile:
 [![My Skills](https://skillicons.dev/icons?i=flutter,swift&perline=2)](https://skillicons.dev)
