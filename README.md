@@ -33,7 +33,7 @@
     </div>
     <div>
         <br>
-        <b></b>Currently learning:</b>
+        </b>Currently learning:
         <br>
         <be>
         <a href="https://skillicons.dev">
