@@ -5,17 +5,19 @@
 - 🛠️ My skills
 
 Game dev:
-<div>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=2)](https://skillicons.dev)
-</div>
 
 Mobile:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,swift&perline=2)](https://skillicons.dev)
 
 Web:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,vue,js&perline=4)](https://skillicons.dev)
 
 Language:
+<br>
 [![My Skills](https://skillicons.dev/icons?i=py,java&perline=2)](https://skillicons.dev)
 
 
