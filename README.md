@@ -4,27 +4,29 @@
 
 - 🛠️ My skills
 
-<p align="center">
+<div align="center">
     Game dev:
     <br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,unity" />
     </a>
-</p>
+    Mobile:
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=flutter,swift" />
+    </a>
+    Web:
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
+    </a>
+    Language:
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,java" />
+    </a>
+</div>
 
-
-
-Mobile:
-<br>
-[![My Skills](https://skillicons.dev/icons?i=flutter,swift&perline=2)](https://skillicons.dev)
-
-Web:
-<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,js&perline=4)](https://skillicons.dev)
-
-Language:
-<br>
-[![My Skills](https://skillicons.dev/icons?i=py,java&perline=2)](https://skillicons.dev)
 
 
 <!--
