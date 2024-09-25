@@ -4,9 +4,14 @@
 
 - 🛠️ My skills
 
-Game dev:
-<br>
-[![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=2)](https://skillicons.dev)
+<p align="center">
+    Game dev:
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,unity" />
+    </a>
+</p>
+
+
 
 Mobile:
 <br>
