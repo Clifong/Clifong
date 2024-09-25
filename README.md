@@ -7,38 +7,26 @@
     <br>
     <br>
     <div>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cs,unity" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=cs,unity" />
     </div>
     <div>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,swift" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=flutter,swift" />
     </div>
     <div>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
     </div>
     <div>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
     </div>
     <div>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,java" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=py,java" />
     </div>
     <div>
         <br>
         </b>Currently learning:
         <br>
         <be>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
     </div>
 </div>
 <br>
