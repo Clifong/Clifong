@@ -49,9 +49,7 @@
     <br>
     <br>
     <a href="https://www.linkedin.com/in/clif-ong-724467199">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     
     
