@@ -1,6 +1,24 @@
-## Hi there 👋
+## Hello world👋
+
+I want to kms
 
 ![Metrics](/metrics.classic.svg)
+
+- 🛠️ My skills
+
+Game dev:
+[![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=1)](https://skillicons.dev)
+
+Mobile:
+[![My Skills](https://skillicons.dev/icons?i=flutter,swift&perline=1)](https://skillicons.dev)
+
+Web:
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,js&perline=1)](https://skillicons.dev)
+
+Language:
+[![My Skills](https://skillicons.dev/icons?i=py,java&perline=1)](https://skillicons.dev)
+
+
 <!--
 **Clifong/Clifong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
