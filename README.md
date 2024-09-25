@@ -2,9 +2,10 @@
 
 ![Metrics](/metrics.classic.svg)
 
-- 🛠️ My skills
-
 <div align="center">
+    🛠️ My skills
+    <br>
+    <br>
     Game dev:
     <br>
     <a href="https://skillicons.dev">
