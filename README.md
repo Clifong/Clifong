@@ -10,16 +10,19 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,unity" />
     </a>
+    <br>
     Mobile:
     <br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=flutter,swift" />
     </a>
+    <br>
     Web:
     <br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
     </a>
+    <br>
     Language:
     <br>
     <a href="https://skillicons.dev">
