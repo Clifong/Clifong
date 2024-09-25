@@ -3,7 +3,7 @@
 ![Metrics](/metrics.classic.svg)
 
 <div align="center">
-    🛠️ My skills
+    ================================= 🛠️ My skills =================================
     <br>
     <br>
     Game dev:
