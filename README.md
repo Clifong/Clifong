@@ -5,6 +5,7 @@
 <div align="center">
     ================================= 🛠️ My skills 🛠️ =================================
     <br>
+    <br>
     <div>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=cs,unity" />
@@ -39,6 +40,8 @@
         </a>
     </div>
 </div>
+<br>
+<br>
 
 <div align="center">
     ================================= 🌐 My social media 🌐 =================================
