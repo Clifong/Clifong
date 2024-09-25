@@ -7,36 +7,42 @@
     <br>
     <div>
         Game dev:
+        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=cs,unity" />
         </a>
     </div>
     <div>
         Mobile:
+        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=flutter,swift" />
         </a>
     </div>
     <div>
         Web:
+        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
         </a>
     </div>
     <div>
         Database:
+        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
         </a>
     </div>
     <div>
         Language:
+        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,java" />
         </a>
     </div>
     <div>
         Currently learning:
+        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
         </a>
