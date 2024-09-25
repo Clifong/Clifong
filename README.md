@@ -33,8 +33,9 @@
     </div>
     <div>
         <br>
-        Currently learning:
+        <b></b>Currently learning:</b>
         <br>
+        <be>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
         </a>
