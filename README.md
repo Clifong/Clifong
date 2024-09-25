@@ -30,6 +30,14 @@
     </a>
     <br>
     <br>
+    Database:
+    <br>
+    <br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=qlite,firebase" />
+    </a>
+    <br>
+    <br>
     Language:
     <br>
     <br>
@@ -39,8 +47,10 @@
     <br>
     <br>
     Currently learning
+    <br>
+    <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
     </a>
 </div>
 
