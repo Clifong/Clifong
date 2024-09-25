@@ -7,16 +7,16 @@ I want to kms
 - 🛠️ My skills
 
 Game dev:
-[![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=2)](https://skillicons.dev)
 
 Mobile:
-[![My Skills](https://skillicons.dev/icons?i=flutter,swift&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,swift&perline=2)](https://skillicons.dev)
 
 Web:
-[![My Skills](https://skillicons.dev/icons?i=html,css,vue,js&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vue,js&perline=4)](https://skillicons.dev)
 
 Language:
-[![My Skills](https://skillicons.dev/icons?i=py,java&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java&perline=2)](https://skillicons.dev)
 
 
 <!--
