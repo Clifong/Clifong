@@ -36,6 +36,12 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,java" />
     </a>
+    <br>
+    <br>
+    Currently learning
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi" />
+    </a>
 </div>
 
 
