@@ -26,7 +26,7 @@
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp,react,rust,go" />
     </div>
 </div>
 <br>
