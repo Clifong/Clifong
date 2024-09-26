@@ -1,5 +1,7 @@
 ## Hello world👋
 
+Probably doing something with life...
+
 ![Metrics](/metrics.classic.svg)
 
 <div align="center">
