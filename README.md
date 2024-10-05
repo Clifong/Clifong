@@ -2,6 +2,8 @@
 
 Probably doing something with life...
 
+Trying to become a backend engineer atm 🤡
+
 ![Metrics](/metrics.classic.svg)
 
 <div align="center">
