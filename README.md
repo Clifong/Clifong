@@ -28,7 +28,7 @@ Probably doing something with life...
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp,react,rust,go" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp,react,rust,go,kotlin" />
     </div>
 </div>
 <br>
