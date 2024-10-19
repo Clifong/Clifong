@@ -26,11 +26,14 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=py,java" />
     </div>
     <div>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+    </div>
+    <div>
         <br>
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp,react,rust,go,kotlin,redis" />
+        <img src="https://skillicons.dev/icons?i=fastapi,cpp,react,rust,go,kotlin,redis" />
     </div>
 </div>
 <br>
