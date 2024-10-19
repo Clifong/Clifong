@@ -14,7 +14,7 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=cs,unity" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=flutter,swift" />
+        <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=html,css,vue,js" />
@@ -26,14 +26,14 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=py,java" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis" />
     </div>
     <div>
         <br>
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=fastapi,cpp,react,rust,go,kotlin,redis" />
+        <img src="https://skillicons.dev/icons?i=fastapi,cpp,react,rust,go" />
     </div>
 </div>
 <br>
