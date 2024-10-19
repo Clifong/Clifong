@@ -30,7 +30,7 @@ Trying to become a backend engineer atm 🤡
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp,react,rust,go,kotlin" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,cpp,react,rust,go,kotlin,redis" />
     </div>
 </div>
 <br>
