@@ -26,7 +26,7 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=py,java" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis" />
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,promethus" />
     </div>
     <div>
         <br>
