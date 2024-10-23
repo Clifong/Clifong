@@ -5,6 +5,7 @@ Probably doing something with life...
 Trying to become a backend engineer atm 🤡
 
 ![Metrics](/metrics.classic.svg)
+![Metrics](/metrics.plugin.leetcode.svg)
 
 <div align="center">
     ================================= 🛠️ My skills 🛠️ =================================
