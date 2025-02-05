@@ -67,8 +67,8 @@
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x138</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x108</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x89</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x68</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x66</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x69</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x67</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x59</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x58</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x55</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Ascending Subarray Sum</div>
-                            <div class="date">4 Feb 2025</div>
+                            <div class="title">Check if One String Swap Can Make Strings Equal</div>
+                            <div class="date">5 Feb 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Longest Strictly Increasing or Strictly Decreasing Subarray</div>
-                            <div class="date">3 Feb 2025</div>
+                            <div class="title">Maximum Ascending Subarray Sum</div>
+                            <div class="date">4 Feb 2025</div>
                         </div>
                     </div>
                 </section>
