@@ -37,7 +37,7 @@ Trying to become a backend engineer atm 🤡
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=prometheus,unreal,jenkins" />
+        <img src="https://skillicons.dev/icons?i=prometheus,unreal,jenkins,playwright" />
     </div>
 </div>
 <br>
