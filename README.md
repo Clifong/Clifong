@@ -30,14 +30,14 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=kafka"/>
+        <img src="https://skillicons.dev/icons?i=kafka,postman"/>
     </div>
     <div>
         <br>
         </b>Currently learning:
         <br>
         <be>
-        <img src="https://skillicons.dev/icons?i=prometheus,unreal,jenkins,playwright" />
+        <img src="https://skillicons.dev/icons?i=prometheus,unreal,jenkins,selenium" />
     </div>
 </div>
 <br>
