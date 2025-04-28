@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="56.573087818696884 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">607</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3530</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="56.602150537634415 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">608</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3534</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,18 +37,18 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="65.72816593886462 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="65.65648854961833 329"/>
                                     <text x="60" y="50" dominant-baseline="central">366</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1832</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1834</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.12969696969697 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">58</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/825</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="23.471584038694076 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">59</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/827</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x348</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x349</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x156</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x132</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x98</span></div>
@@ -71,7 +71,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x77</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x72</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x64</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x60</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x61</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x60</span></div>
                     </div>
                 </section>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Count Subarrays of Length Three With a Condition</div>
-                            <div class="date">27 Apr 2025</div>
+                            <div class="title">Count Subarrays With Score Less Than K</div>
+                            <div class="date">28 Apr 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Count Subarrays With Fixed Bounds</div>
-                            <div class="date">26 Apr 2025</div>
+                            <div class="title">Count Subarrays of Length Three With a Condition</div>
+                            <div class="date">27 Apr 2025</div>
                         </div>
                     </div>
                 </section>
