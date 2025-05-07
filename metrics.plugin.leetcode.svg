@@ -72,7 +72,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x72</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x64</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x62</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x61</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x62</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
