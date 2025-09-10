@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.185205330432424 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">695</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="62.364155561599134 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">697</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3677</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="70.81922675026124 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">412</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="71.16300940438872 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">414</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1914</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,10 +63,10 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x406</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x407</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x171</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x154</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x117</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x118</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x99</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x94</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x75</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Design a Food Rating System</div>
-                            <div class="date">8 Sept 2025</div>
+                            <div class="title">Design Front Middle Back Queue</div>
+                            <div class="date">9 Sept 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Convert Integer to the Sum of Two No-Zero Integers</div>
-                            <div class="date">8 Sept 2025</div>
+                            <div class="title">Number of People Aware of a Secret</div>
+                            <div class="date">9 Sept 2025</div>
                         </div>
                     </div>
                 </section>
