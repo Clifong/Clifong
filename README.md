@@ -1,8 +1,6 @@
-## Hello world👋
+## "Countless shooting stars streak across the night sky... If you can pick the right one, it will carry your wish to thousands of distant worlds..."💫
 
-Probably doing something with life...
-
-Trying to become a backend engineer atm 🤡
+Game OS in development...
 
 ![Metrics](/metrics.classic.svg)
 ![Metrics](/metrics.plugin.leetcode.svg)
@@ -24,20 +22,13 @@ Trying to become a backend engineer atm 🤡
         <img src="https://skillicons.dev/icons?i=sqlite,firebase,fastapi" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=py,java,cpp,rust,go" />
+        <img src="https://skillicons.dev/icons?i=py,cpp" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=kafka,postman"/>
-    </div>
-    <div>
-        <br>
-        </b>Currently learning:
-        <br>
-        <be>
-        <img src="https://skillicons.dev/icons?i=prometheus,unreal,jenkins,selenium" />
     </div>
 </div>
 <br>
