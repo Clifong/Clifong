@@ -6,7 +6,7 @@ Game OS in development...
 ![Metrics](/metrics.plugin.leetcode.svg)
 
 <div align="center">
-    ================================= 🛠️ My skills 🛠️ =================================
+    🛠️ My skills 🛠️
     <br>
     <br>
     <div>
@@ -35,7 +35,7 @@ Game OS in development...
 <br>
 
 <div align="center">
-    =============================== 🌐 My social media 🌐 ===============================
+    🌐 My social media 🌐
     <br>
     <br>
     <a href="https://www.linkedin.com/in/clif-ong-724467199">
