@@ -13,22 +13,16 @@ Game OS in development...
         <img src="https://skillicons.dev/icons?i=cs,unity" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin" />
+        <img src="https://skillicons.dev/icons?i=flutter,kotlin" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,vue,js,vite,react" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=sqlite,firebase,fastapi" />
+        <img src="https://skillicons.dev/icons?i=vue,vite" />
     </div>
     <div>
         <img src="https://skillicons.dev/icons?i=py,cpp" />
     </div>
     <div>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,aws" />
-    </div>
-    <div>
-        <img src="https://skillicons.dev/icons?i=kafka,postman"/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka" />
     </div>
 </div>
 <br>
